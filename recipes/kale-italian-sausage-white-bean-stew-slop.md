@@ -2,10 +2,8 @@
 title: Kale, Italian Sausage, & White Bean Stew (Slop)
 author: Riley Retzloff
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
-
-# Kale, Italian Sausage, & White Bean Stew (Slop)
 
 ### Notes
 - **Servings:** Makes ~8 large servings
