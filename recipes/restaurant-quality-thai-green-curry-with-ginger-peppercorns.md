@@ -5,7 +5,7 @@ created: 2026-11-06
 updated: 2026-11-07
 ---
 
-## Ingredients
+### Ingredients
 
 - 1 can (13.5-14 oz) full-fat coconut milk (cream separated from liquid)  
 - 3-4 tbsp canned green curry paste  
@@ -19,7 +19,7 @@ updated: 2026-11-07
 - Vegetables: 1/4" sliced carrots, 1/2" sliced Chinese eggplant, green beans, broccoli, 1/3" sliced zucchini  
 - Fresh Thai basil and lime juice to finish  
   
-## Instructions
+### Instructions
 
 1. Simmer the thick coconut cream at the top of the can until the oil separates.  
 2. Add the curry paste, garlic, ginger and/or white peppercorns, and lemongrass. Fry for 2-3 minutes until fragrant.  
