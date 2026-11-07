@@ -1,5 +1,5 @@
 ---
-title: food i like to cook
+title: misc easy meals
 author: riley
 created: 2026-11-07
 updated: 2026-11-07
