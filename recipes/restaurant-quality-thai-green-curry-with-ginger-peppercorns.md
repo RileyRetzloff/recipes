@@ -2,7 +2,7 @@
 title: Restaurant-Quality Thai Green Curry (with Ginger/Peppercorns)
 author: Corbin Duncan (added by Riley Retzloff)
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 ## Ingredients
@@ -10,11 +10,11 @@ updated: 2026-11-06
 - 1 can (13.5-14 oz) full-fat coconut milk (cream separated from liquid)  
 - 3-4 tbsp canned green curry paste  
 - 2-3 cloves garlic, minced  
-- [1 tbsp](x-apple-data-detectors://embedded-result/206) ginger and/or white peppercorns, finely grated  
-- [1 tbsp](x-apple-data-detectors://embedded-result/260) lemongrass, finely grated (using a Microplane)  
+- 1 tbsp ginger and/or white peppercorns, finely grated  
+- 1 tbsp lemongrass, finely grated (using a Microplane)  
 - 2tbsp dried fake chicken bullion  
 - 4-6 Kaffir lime leaves, torn  
-- [1 tbsp](x-apple-data-detectors://embedded-result/376) palm sugar (or brown sugar)  
+- 1 tbsp palm sugar (or brown sugar)  
 - extra firm tofu pressed and coated in corn starch and air fryer till crispy  
 - Vegetables: 1/4" sliced carrots, 1/2" sliced Chinese eggplant, green beans, broccoli, 1/3" sliced zucchini  
 - Fresh Thai basil and lime juice to finish  
